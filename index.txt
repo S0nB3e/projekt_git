@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Opcja A" 
+=======
+"Opcja B" 
+>>>>>>> branch-blad
